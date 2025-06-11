@@ -4,13 +4,19 @@ layout: default
 
 **Welcome to a Website for Geography Teaching Tools**
 
-The Beachlab is part of the School of the Environment at The University of Queensland. Dr Daniel Harris is the leader of the Beachlab. Dan focuses on the processes that change coastal and marine systems from the river catchments to the continental shelf (…or wherever there’s water).
+The suite of workshops below use online resources and open source software (or common software such as Microsoft Excel) to investigate coastal erosion and inundation hazards. These hazards will be examined over two time points - present  and 2100 - and over two time scales - short-term event driven and chronic coastal change. 
 
-The goal of the Beachlab is to develop tools, gather data, and provide analyses to help coastlines and coral reefs navigate a warmer world. Our projects are focused on fundamental research questions about how coasts and coral reefs change through time. We also have applied research objectives to support the future management of coastal and coral reef systems.
+The goal of these workshops is to get students to:
 
-We employ a suite of data collection methods and models to conduct this research and are always seeking motivated students and researchers to work with. A few research topics are listed below in the research link. The website is sporadically updated so feel profile to peruse the research profiles of Dan at [UQ](https://researchers.uq.edu.au/researcher/16758) which contains most of the research output links you might be interested in.
-
-For students who may be interested in research projects within the Beachlab see the list [here](./student_projects.html)
+* access trusted online data sources
+* investigate and understand coastal change using real world data
+* wrangle real world data and analyse coastal change
+* investigate and represent data in figures and charts
+* perform basic statistical analysis to interpret change
+* model coastal response to sea level rise and storm events
+* develop foundational geography conceptual understanding in temporal scales of change in a natural system
+* communicate hazards and risk using mapping software
+* analyse risk to communities using hazard maps
 
 **Menu**
 
