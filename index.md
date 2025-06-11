@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Welcome to The Beachlab**
+**Welcome to a Website for Geography Teaching Tools**
 
 The Beachlab is part of the School of the Environment at The University of Queensland. Dr Daniel Harris is the leader of the Beachlab. Dan focuses on the processes that change coastal and marine systems from the river catchments to the continental shelf (…or wherever there’s water).
 
@@ -14,7 +14,7 @@ For students who may be interested in research projects within the Beachlab see 
 
 **Menu**
 
-[People](./people.html)
+<!-- [People](./people.html)
 
 [Research](./projects.html)
 
@@ -26,4 +26,4 @@ For students who may be interested in research projects within the Beachlab see 
 
 [Available Honours and Masters Projects](./student_projects)
 
-[Other interests](./other.html)
+[Other interests](./other.html) -->
