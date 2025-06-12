@@ -20,6 +20,8 @@ The goal of these workshops is to get students to:
 
 **Menu**
 
+[Workshop 1](https://www.notion.so/Workshop-1-Chronic-Shoreline-Change-20f6f8acd3fa8007a8e2c7119cb22388?source=copy_link)
+
 <!-- [People](./people.html)
 
 [Research](./projects.html)
