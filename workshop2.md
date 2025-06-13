@@ -12,7 +12,7 @@ Click on the links below to get access to the practical material. You can watch 
 
 **Links**
 
-[Workshop 1: Inundation Hazard Workshop Notes]((https://www.notion.so/Workshop-2-Inundation-mapping-with-real-world-data-2106f8acd3fa8041bac5ff6f5859e313?source=copy_link))
+[Workshop 1: Inundation Hazard Workshop Notes](https://www.notion.so/Workshop-2-Inundation-mapping-with-real-world-data-2106f8acd3fa8041bac5ff6f5859e313?source=copy_link)
 
 [Canute 3.0](https://shiny.csiro.au/Canute3_0/)
 
