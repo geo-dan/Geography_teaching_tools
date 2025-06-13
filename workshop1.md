@@ -6,7 +6,7 @@ layout: default
 
 Click on the links below to get access to the practical material. You can watch the video first to get an idea of how to conduct the practicals.
 
-![jimmys beach](assets/jimmys_beach_erosion.jpg)
+![jimmys beach](assets/jimmys_beach_erosion.jpeg)
 
 ![map of beach locations](assets/map_locations.jpg)
 
