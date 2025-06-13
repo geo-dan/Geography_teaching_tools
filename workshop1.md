@@ -2,10 +2,6 @@
 layout: default
 ---
 
----
-layout: default
----
-
 **Workshop #1 - Decadal Shoreline Change**
 
 
