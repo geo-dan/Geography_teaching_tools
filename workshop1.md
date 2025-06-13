@@ -10,7 +10,7 @@ Click on the links below to get access to the practical material. You can watch 
 
 <!--![map of beach locations](assets/map_locations.jpg) -->
 
-**Menu**
+**Links**
 
 [Workshop 1: Decadal Shoreline Change Notes](https://www.notion.so/Workshop-1-Chronic-Shoreline-Change-20f6f8acd3fa8007a8e2c7119cb22388?source=copy_link)
 
