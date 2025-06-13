@@ -5,7 +5,7 @@ layout: default
 **Workshop #1 - Decadal Shoreline Change**
 
 Click on the links below to get access to the practical material. You can watch the video first to get an idea of how to conduct the practicals.
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](asset/map_locations.JPG)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](asset/map_locations.jpg)
 
 **Menu**
 
