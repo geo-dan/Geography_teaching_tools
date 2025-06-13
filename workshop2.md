@@ -20,7 +20,7 @@ Click on the links below to get access to the practical material. You can watch 
 
 
 
-![map of beach locations](assets/map_locations.jpg)
+![cairns coastal risk](assets/cairns_coastalrisk.jpeg)
 
 <!-- [People](./people.html)
 
