@@ -22,6 +22,8 @@ The goal of these workshops is to get students to:
 
 [Workshop 1: Decadal Coastal Change](./workshop1.html)
 
+[Workshop 2: Inundation mapping with real-world data](./workshop2.html)
+
 <!-- [People](./people.html)
 
 [Research](./projects.html)
