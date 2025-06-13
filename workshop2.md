@@ -20,7 +20,7 @@ Click on the links below to get access to the practical material. You can watch 
 
 
 
-![cairns coastal risk](assets/cairns_coastalrisk.jpeg)
+![cairns coastal risk](assets/cairns_coastalrisk.jpg)
 
 <!-- [People](./people.html)
 
