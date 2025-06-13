@@ -2,19 +2,22 @@
 layout: default
 ---
 
-**Workshop #1 - Decadal Shoreline Change**
+**Workshop #2 - Inundation mapping with real-world data**
 
 Click on the links below to get access to the practical material. You can watch the video first to get an idea of how to conduct the practicals.
 
-![jimmys beach](assets/jimmys_beach_erosion.jpeg)
+![sandy_inundation](assets/sandy_inundation.jpeg)
 
 <!--![map of beach locations](assets/map_locations.jpg) -->
 
 **Links**
 
-[Workshop 1: Decadal Shoreline Change Notes](https://www.notion.so/Workshop-1-Chronic-Shoreline-Change-20f6f8acd3fa8007a8e2c7119cb22388?source=copy_link)
+[Workshop 1: Inundation Hazard Workshop Notes]((https://www.notion.so/Workshop-2-Inundation-mapping-with-real-world-data-2106f8acd3fa8041bac5ff6f5859e313?source=copy_link))
 
-[Southeast Queensland Wave Data - Brisbane Deep Water Wave Buoy 1988 - 2019](assets/brisbane_waves_1988_2019.xlsx)
+[Canute 3.0](https://shiny.csiro.au/Canute3_0/)
+
+[Coastal Risk Website](http://www.coastalrisk.com.au)
+
 
 
 ![map of beach locations](assets/map_locations.jpg)
