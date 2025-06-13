@@ -24,6 +24,19 @@ The goal of these workshops is to get students to:
 
 [Workshop 2: Inundation mapping with real-world data](./workshop2.html)
 
+**Data Websites**
+
+Digital Earth Australia Coastlines Data Set - https://www.ga.gov.au/scientific-topics/dea/dea-data-and-products/dea-coastlines 
+Queensland Wave Rider Buoy Network - https://www.qld.gov.au/environment/coasts-waterways/beach/monitoring/waves-sites 
+Queensland Coastal LiDAR and Elevation Data - https://elevation.fsdf.org.au/ 
+Information on coastal adaption and change https://coastadapt.com.au/   
+The longest continuous beach survey data set in the world http://narrabeen.wrl.unsw.edu.au/  
+The CoastalRisk Tool for visually representing coastal inundation due to tides and sea level rise http://www.coastalrisk.com.au  
+Over 30 years of change in 10 seconds using satellite images from Google. https://earthengine.google.com/timelapse/  
+CANUTE 3.0 tool for determining inundation risk on the Australian coast https://shiny.csiro.au/Canute3_0/ 
+NASA Sea Level Project Tool - https://sealevel.nasa.gov/ipcc-ar6-sea-level-projection-tool 
+
+
 <!-- [People](./people.html)
 
 [Research](./projects.html)
