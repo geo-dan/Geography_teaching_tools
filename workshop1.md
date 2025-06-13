@@ -6,12 +6,12 @@ layout: default
 layout: default
 ---
 
-**Workshop #1 - Chronic Shoreline Change**
+**Workshop #1 - Decadal Shoreline Change**
 
 
 **Menu**
 
-[Workshop 1: Chronic Shoreline Change Notes](https://www.notion.so/Workshop-1-Chronic-Shoreline-Change-20f6f8acd3fa8007a8e2c7119cb22388?source=copy_link)
+[Workshop 1: Decadal Shoreline Change Notes](https://www.notion.so/Workshop-1-Chronic-Shoreline-Change-20f6f8acd3fa8007a8e2c7119cb22388?source=copy_link)
 
 
 
