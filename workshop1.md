@@ -10,6 +10,7 @@ Click on the links below to get access to the practical material. You can watch 
 
 [Workshop 1: Decadal Shoreline Change Notes](https://www.notion.so/Workshop-1-Chronic-Shoreline-Change-20f6f8acd3fa8007a8e2c7119cb22388?source=copy_link)
 
+[Southeast Queensland Wave Data - Brisbane Deep Water Wave Buoy 1988 - 2019](assets/brisbane_waves_1988_2019.xlsx)
 
 
 <!-- [People](./people.html)
