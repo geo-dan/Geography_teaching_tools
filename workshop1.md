@@ -17,6 +17,8 @@ Click on the links below to get access to the practical material. You can watch 
 [Southeast Queensland Wave Data - Brisbane Deep Water Wave Buoy 1988 - 2019](assets/brisbane_waves_1988_2019.xlsx)
 
 
+![map of beach locations](assets/map_locations.jpg)
+
 <!-- [People](./people.html)
 
 [Research](./projects.html)
