@@ -8,7 +8,7 @@ Click on the links below to get access to the practical material. You can watch 
 
 ![jimmys beach](assets/jimmys_beach_erosion.jpeg)
 
-![map of beach locations](assets/map_locations.jpg)
+<!--![map of beach locations](assets/map_locations.jpg) -->
 
 **Menu**
 
